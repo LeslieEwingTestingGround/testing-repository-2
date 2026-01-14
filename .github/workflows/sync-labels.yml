@@ -17,8 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Sync GitHub labels
-        uses: EndBug/label-sync@v2.0.1
+      - name: sync-labels-action
+        uses: ShineyDev/sync-labels-action@v1.2.3
         with:
             token: ${{secrets.GITHUB_TOKEN}}
 
