@@ -4,5 +4,5 @@
   description: "Backlog item"
 
 - name: "Task"
-  color: "FEF2C0"
+  color: "FEF2C1"
   description: "Task for a project"
