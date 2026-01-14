@@ -1,0 +1,8 @@
+# .github/labels.yml
+- name: "Backlog"
+  color: "1D65F8"
+  description: "Backlog item"
+
+- name: "Task"
+  color: "FEF2C0"
+  description: "Task for a project"
